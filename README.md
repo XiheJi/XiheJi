@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @XiheZhou, not my real name
 - 👀 I’m interested in AppDevelop and Robotics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Data Strucutre, Machine Learning
 - 💞️ I’m looking to collaborate on Robotic Design
-- 📫 How to reach me ///  ~_^
+- 📫 How to reach me ///   ~_^
 
 <!---
 XiheZhou/XiheZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
