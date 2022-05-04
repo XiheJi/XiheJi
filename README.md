@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XiheZhou, not my real name
+- 👋 Hi, I’m @Xihe Ji
 - 👀 I’m interested in AppDevelop and Robotics
 - 🌱 I’m currently learning Python, Data Strucutre, Machine Learning
 - 💞️ I’m looking to collaborate on Robotic Design
